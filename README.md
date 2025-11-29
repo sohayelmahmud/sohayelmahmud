@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sohayelmahmud&label=Profile%20views&color=0e75b6&style=flat)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/sohayelmahmud?tab=repositories)
 
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohayelmahmud" alt="sohayelmahmud" /></a> </p> -->
 
 <!-- <img src='' alt='Sohayel GitHub Banner' /> -->
 
@@ -18,11 +19,13 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 
 ## Skills & Technologies
 
-|       Skills Overview        Technologies                                                                                                                                                                                                                          |
+|       Skills Overview        |Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**         | ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  |
 | **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)   |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) |
+| **Tools & Setups** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
+| **Coding Platforms** <br> (Click to view Profiles) | [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/sohayelmahmud) [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://leetcode.com/sohayelmahmud/) [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim)   |
 
 
 
@@ -32,7 +35,28 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sohayelmahmud)
 
-- 📫 How to reach me **sohayelmahmud@proton.me**
+- 📫 How to reach me [**sohayelmahmud@proton.me**](mailto:sohayelmahmud@proton.me)
+
+---
+
+### My Featured Projects
+
+Here are some of my notable projects. Feel free to explore them on my GitHub repository!:
+
+* [**Mikasa Conky Theme:**](https://github.com/sohayelmahmud/Mikasa)  [*Short Overview:* A sleek and minimal Conky widget of Calendar & Clock for Linux Mint.]
+
+* [**Python Mini Projects:**](https://github.com/sohayelmahmud/Python-Mini-Projects)  [*Short Overview:* My collection of small Python projects demonstrating various concepts and functionalities.]
+
+* [**GitHub Utility:**](https://github.com/sohayelmahmud/GitHub-Utility)  [*Short Overview:* A set of tools to enhance GitHub workflow and productivity.]
+
+<br>
+
+### GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohayelmahmud&show_icons=true&locale=en&layout=compact" alt="sohayelmahmud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohayelmahmud&show_icons=true&locale=en" alt="sohayelmahmud" /></p>
+
+<br>
 
 ---
 
@@ -51,13 +75,13 @@ Feel free to reach out to me or connect with me via...
 [![Yahoo Mail](https://img.shields.io/badge/-Yahoo_Mail-333333?style=flat&logo=yahoo)](mailto:sohayelmahmud@yahoo.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:sohayelmahmud1@gmail.com)
 
-### Programming Profiles:
+<!-- ### Programming Profiles:
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud)
+
 [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/sohayelmahmud)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://www.leetcode.com/sohayelmahmud)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://www.leetcode.com/sohayelmahmud) -->
 
 
 **Let's connect and discuss exciting opportunities!**
