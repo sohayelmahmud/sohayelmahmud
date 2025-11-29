@@ -54,9 +54,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 Here are some of my notable projects. Feel free to explore them on my GitHub repository!:
 
 * [**Mikasa Conky Theme:**](https://github.com/sohayelmahmud/Mikasa)  [*Short Overview:* A sleek and minimal Conky widget of Calendar & Clock for Linux Mint.]
-
 * [**Python Mini Projects:**](https://github.com/sohayelmahmud/Python-Mini-Projects)  [*Short Overview:* My collection of small Python projects demonstrating various concepts and functionalities.]
-
 * [**GitHub Utility:**](https://github.com/sohayelmahmud/GitHub-Utility)  [*Short Overview:* A set of tools to enhance GitHub workflow and productivity.]
 
 <br>
