@@ -1,6 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sohayelmahmud&label=Profile%20views&color=0e75b6&style=flat)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohayelmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="sohayelmahmud" /> </p>
-
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/sohayelmahmud?tab=repositories)
 
 
