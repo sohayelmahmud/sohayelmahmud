@@ -19,10 +19,10 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 
 ## Education
 
-**Higher Secondary Certificate (HSC)**
+**Higher Secondary Certificate (HSC)** <br>
 Dhaka College, Dhaka, Bangladesh | Science | GPA: 5.00/5.00
 
-**Secondary School Certificate (SSC)**
+**Secondary School Certificate (SSC)** <br>
 Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/5.00
 
 ---
