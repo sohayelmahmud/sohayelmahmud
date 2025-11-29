@@ -1,13 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sohayelmahmud&label=Profile%20views&color=0e75b6&style=flat)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/sohayelmahmud?tab=repositories)
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohayelmahmud" alt="sohayelmahmud" /></a> </p> -->
+<br>
 
 <!-- <img src='' alt='Sohayel GitHub Banner' /> -->
 
 ## About Me
 
-I'm just a curious mind who codes for **fun, challenge, and pure fascination!** I am not a serious, professional developer (yet!), but I enjoy exploring the world of programming in my free time.
+Hello! I'm **Sohayel Mahmud**, a passionate coding enthusiast from Bangladesh. I'm just a curious mind who codes for **fun, challenge, and pure fascination!** I am not a serious, professional developer (yet!), but I enjoy exploring the world of programming in my free time.
 
 * I am always eager to learn new concepts and tackle interesting problems.
 * I love making things work just because I can! Coding is my hobby, and I use it to solve small, interesting problems.
@@ -15,7 +13,7 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 
 * If a task takes too long, I build a small script to finish it quickly—that's my kind of fun!
 
----
+<!-- ---
 
 ## Education
 
@@ -23,7 +21,7 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 Dhaka College, Dhaka, Bangladesh | Science | GPA: 5.00/5.00
 
 **Secondary School Certificate (SSC)** <br>
-Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/5.00
+Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/5.00 -->
 
 ---
 
@@ -34,6 +32,14 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 | **Languages**         | ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  |
 | **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)   |
 | **Tools & Setups** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
+
+
+<br>
+
+## Experience & Current Work
+
+|       Skills Overview        |Technologies                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Operating Systems** | ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
 | **Coding Platforms** <br> (Click to view Profiles) | [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/sohayelmahmud) [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://leetcode.com/sohayelmahmud/) [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim)   |
 
@@ -45,7 +51,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sohayelmahmud)
 
-- 📫 How to reach me [**sohayelmahmud@proton.me**](mailto:sohayelmahmud@proton.me)
+- 📫 How to reach me [**sohayelmahmud@yahoo.com**](mailto:sohayelmahmud@yahoo.com)
 
 ---
 
@@ -77,12 +83,6 @@ Feel free to reach out to me or connect with me via...
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)](https://www.facebook.com/sohayel.mahmud.7)
 [![X](https://img.shields.io/badge/-X-333333?style=flat&logo=x)](https://x.com/MahmudSohayel)
 
-
-### Email:
-
-[![Proton Mail](https://img.shields.io/badge/-Proton_Mail-333333?style=flat&logo=protonmail)](mailto:sohayelmahmud@proton.me)
-[![Yahoo Mail](https://img.shields.io/badge/-Yahoo_Mail-333333?style=flat&logo=yahoo)](mailto:sohayelmahmud@yahoo.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:sohayelmahmud1@gmail.com)
 
 <!-- ### Programming Profiles:
 
