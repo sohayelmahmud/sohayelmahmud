@@ -19,41 +19,11 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 
 ## Education
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex-basis: 70%;">
-        <h3>Higher Secondary Certificate (HSC)</h3>
-        <p>Dhaka College, Dhaka, Bangladesh</p>
-    </div>
-    <div style="flex-basis: 25%; text-align: right; color: #888;">
-        <p>2022 - 2023</p>
-        <p>GPA: 5.00 out of 5.00</p>
-    </div>
-</div>
+**Higher Secondary Certificate (HSC)**
+Dhaka College, Dhaka, Bangladesh | Science | GPA: 5.00/5.00
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex-basis: 70%;">
-        <h3>Secondary School Certificate (SSC)</h3>
-        <p>Motijheel Model High School and College, Dhaka, Bangladesh</p>
-    </div>
-    <div style="flex-basis: 25%; text-align: right; color: #888;">
-        <p>2019 - 2020</p>
-        <p>GPA: 5.00 out of 5.00</p>
-    </div>
-</div>
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 70%; text-align: left; vertical-align: middle;">
-      <h3>Higher Secondary Certificate (HSC)</h3>
-      <p style="margin-top: -15px;">Dhaka College, Dhaka, Bangladesh</p>
-    </td>
-    <td style="width: 30%; text-align: right; vertical-align: middle;">
-      <p style="font-weight: bold; margin-bottom: 5px;">2022 - 2023</p>
-      <p style="margin-top: 0;">GPA: 5.00 out of 5.00</p>
-    </td>
-  </tr>
-</table>
-
+**Secondary School Certificate (SSC)**
+Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/5.00
 
 ---
 
