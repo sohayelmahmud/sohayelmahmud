@@ -53,17 +53,17 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 
 Here are some of my notable projects. Feel free to explore them on my GitHub repository!:
 
-* [**Mikasa Conky Theme:**](https://github.com/sohayelmahmud/Mikasa)  [*Short Overview:* A sleek and minimal Conky widget of Calendar & Clock for Linux Mint.]
-* [**Python Mini Projects:**](https://github.com/sohayelmahmud/Python-Mini-Projects)  [*Short Overview:* My collection of small Python projects demonstrating various concepts and functionalities.]
-* [**GitHub Utility:**](https://github.com/sohayelmahmud/GitHub-Utility)  [*Short Overview:* A set of tools to enhance GitHub workflow and productivity.]
+* [**Mikasa Conky Theme:**](https://github.com/sohayelmahmud/Mikasa)  [A sleek and minimal Conky widget of Calendar & Clock for Linux Mint.]
+* [**Python Mini Projects:**](https://github.com/sohayelmahmud/Python-Mini-Projects)  [My collection of small Python projects demonstrating various concepts and functionalities.]
+* [**GitHub Utility:**](https://github.com/sohayelmahmud/GitHub-Utility)  [A set of tools to enhance GitHub workflow and productivity.]
 
 <br>
 
 ### My Problem Solving Repositories
 Here are some of my repositories focused on problem-solving and coding challenges:
 
-* [**HackerRank Solutions:**](https://github.com/sohayelmahmud/HackerRank-Solutions)  [*Short Overview:* My solutions to various coding challenges on HackerRank.]
-* [**Exercism Solutions:**](https://github.com/sohayelmahmud/Exercism-Solutions)  [*Short Overview:* My solutions to various coding challenges on Exercism.]
+* [**HackerRank Solutions:**](https://github.com/sohayelmahmud/HackerRank-Solutions)  [My solutions to various coding challenges on HackerRank.]
+* [**Exercism Solutions:**](https://github.com/sohayelmahmud/Exercism-Solutions)  [My solutions to various coding challenges on Exercism.]
 
 <br>
 
