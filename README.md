@@ -17,14 +17,54 @@ I'm just a curious mind who codes for **fun, challenge, and pure fascination!** 
 
 ---
 
+## Education
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex-basis: 70%;">
+        <h3>Higher Secondary Certificate (HSC)</h3>
+        <p>Dhaka College, Dhaka, Bangladesh</p>
+    </div>
+    <div style="flex-basis: 25%; text-align: right; color: #888;">
+        <p>2022 - 2023</p>
+        <p>GPA: 5.00 out of 5.00</p>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex-basis: 70%;">
+        <h3>Secondary School Certificate (SSC)</h3>
+        <p>Motijheel Model High School and College, Dhaka, Bangladesh</p>
+    </div>
+    <div style="flex-basis: 25%; text-align: right; color: #888;">
+        <p>2019 - 2020</p>
+        <p>GPA: 5.00 out of 5.00</p>
+    </div>
+</div>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 70%; text-align: left; vertical-align: middle;">
+      <h3>Higher Secondary Certificate (HSC)</h3>
+      <p style="margin-top: -15px;">Dhaka College, Dhaka, Bangladesh</p>
+    </td>
+    <td style="width: 30%; text-align: right; vertical-align: middle;">
+      <p style="font-weight: bold; margin-bottom: 5px;">2022 - 2023</p>
+      <p style="margin-top: 0;">GPA: 5.00 out of 5.00</p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## Skills & Technologies
 
 |       Skills Overview        |Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**         | ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  |
 | **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)   |
-| **Tools & Setups** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
+| **Tools & Setups** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
+| **Operating Systems** | ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
 | **Coding Platforms** <br> (Click to view Profiles) | [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/sohayelmahmud) [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://leetcode.com/sohayelmahmud/) [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim)   |
 
 
@@ -51,10 +91,11 @@ Here are some of my notable projects. Feel free to explore them on my GitHub rep
 
 <br>
 
-### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohayelmahmud&show_icons=true&locale=en&layout=compact" alt="sohayelmahmud" /></p>
+### My Problem Solving Repositories
+Here are some of my repositories focused on problem-solving and coding challenges:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohayelmahmud&show_icons=true&locale=en" alt="sohayelmahmud" /></p>
+* [**HackerRank Solutions:**](https://github.com/sohayelmahmud/HackerRank-Solutions)  [*Short Overview:* My solutions to various coding challenges on HackerRank.]
+* [**Exercism Solutions:**](https://github.com/sohayelmahmud/Exercism-Solutions)  [*Short Overview:* My solutions to various coding challenges on Exercism.]
 
 <br>
 
