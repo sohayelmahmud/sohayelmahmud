@@ -41,7 +41,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 | Area        |Tools Used                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Operating Systems** | ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
-| **Coding Platforms** <br> (Click to view Profiles) | [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/sohayelmahmud) [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://leetcode.com/sohayelmahmud/) [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim)   |
+| **Coding Platforms** <br> (Click to view Profiles) | [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/sohayelmahmud) [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leet-code)](https://leetcode.com/sohayelmahmud/) [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
 
 
 
@@ -79,9 +79,10 @@ Here are some of my repositories focused on problem-solving and coding challenge
 Feel free to reach out to me or connect with me via...
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/sohayelmahmud)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohayelmahmud/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohayelmahmud/)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)](https://www.facebook.com/sohayel.mahmud.7)
 [![X](https://img.shields.io/badge/-X-333333?style=flat&logo=x)](https://x.com/MahmudSohayel)
+
 
 **Mail me on:** [sohayelmahmud@yahoo.com](mailto:sohayelmahmud@yahoo.com)
 
