@@ -31,7 +31,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages**         | ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) |
 | **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css) |
-| **Tools & Setups** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/sohayelmahmud) [![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)](https://gitlab.com/sohayelmahmud) [![Codeberg](https://img.shields.io/badge/-Codeberg-333333?style=flat&logo=codeberg)](https://codeberg.org/sohayelmahmud) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
+| **Tools & Setups** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/sohayelmahmud) [![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)](https://gitlab.com/sohayelmahmud) [![Codeberg](https://img.shields.io/badge/-Codeberg-333333?style=flat&logo=codeberg)](https://codeberg.org/sohayelmahmud) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)  |
 
 
 <br>
@@ -40,7 +40,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 
 | Area        |Tools Used                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Operating Systems** | ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
 | **Coding Platforms** <br> (Click to view Profiles) | [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp)](https://www.freecodecamp.org/sohayelmahmud) [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)](https://leetcode.com/sohayelmahmud/) [![Codeforces](https://img.shields.io/badge/-Codeforces-333333?style=flat&logo=codeforces)](https://codeforces.com/profile/sohayel7461) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
 
 
@@ -59,17 +59,18 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 
 Here are some of my notable projects. Feel free to explore them on my GitHub repository!:
 
-* [**Mikasa Conky Theme:**](https://github.com/sohayelmahmud/Mikasa)  [A sleek and minimal Conky widget of Calendar & Clock for Linux Mint.]
-* [**Python Mini Projects:**](https://github.com/sohayelmahmud/Python-Mini-Projects)  [My collection of small Python projects demonstrating various concepts and functionalities.]
-* [**GitHub Utility:**](https://github.com/sohayelmahmud/GitHub-Utility)  [A set of tools to enhance GitHub workflow and productivity.]
+* [**Simple Scientific Calculator:**](https://sohayelmahmud.github.io/Calculator.github.io/)  A simple scientific calculator built using HTML, CSS, and JavaScript. Currently working on it for more features.
+* [**Mikasa Conky Theme:**](https://github.com/sohayelmahmud/Mikasa)  A sleek and minimal Conky widget of Calendar & Clock for Linux Mint.
+* [**Python Mini Projects:**](https://github.com/sohayelmahmud/Python-Mini-Projects)  My collection of small Python projects demonstrating various concepts and functionalities.
+* [**GitHub Utility:**](https://github.com/sohayelmahmud/GitHub-Utility)  A set of tools to enhance GitHub workflow and productivity.
 
 <br>
 
 ### My Problem Solving Repositories
 Here are some of my repositories focused on problem-solving and coding challenges:
 
-* [**HackerRank Solutions:**](https://github.com/sohayelmahmud/HackerRank-Solutions)  [My solutions to various coding challenges on HackerRank.]
-* [**Exercism Solutions:**](https://github.com/sohayelmahmud/Exercism-Solutions)  [My solutions to various coding challenges on Exercism.]
+* [**HackerRank Solutions:**](https://github.com/sohayelmahmud/HackerRank-Solutions)  My solutions to various coding challenges on HackerRank.
+* [**Exercism Solutions:**](https://github.com/sohayelmahmud/Exercism-Solutions)  My solutions to various coding challenges on Exercism.
 
 <br>
 
