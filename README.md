@@ -49,7 +49,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 
 - 🌱 I’m currently learning **Tkinter of Python**
 
-- 👨‍💻 All of my projects are available at [https://sohayelmahmud.github.io/](https://sohayelmahmud.github.io/)
+- 👨‍💻 All of my projects are available at [**https://sohayelmahmud.github.io**](https://sohayelmahmud.github.io/)
 
 - 📫 How to reach me [**sohayelmahmud@yahoo.com**](mailto:sohayelmahmud@yahoo.com)
 
