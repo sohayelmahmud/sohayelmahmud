@@ -82,7 +82,7 @@ Feel free to reach out to me or connect with me via...
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/sohayelmahmud)
 [![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)](https://gitlab.com/sohayelmahmud)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-333333?style=flat&logo=codeberg)](https://codeberg.org/sohayelmahmud)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohayelmahmud/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/sohayelmahmud/)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)](https://www.facebook.com/sohayel.mahmud.7)
 [![X](https://img.shields.io/badge/-X-333333?style=flat&logo=x)](https://x.com/MahmudSohayel)
 
