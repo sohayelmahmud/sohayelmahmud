@@ -41,11 +41,12 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 | Area        |Tools Used                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Linux Mint](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
-| **Programming Profiles** <br> (Click to view Profiles) | [![Codeforces](https://cp-logo.vercel.app/codeforces/sohayel7461?logo=true)](https://codeforces.com/profile/sohayel7461) [![AtCoder](https://cp-logo.vercel.app/atcoder/sohayel7461?logo=true)](https://atcoder.jp/users/sohayel7461) [![Codechef](https://cp-logo.vercel.app/codechef/sohayel7461?logo=true)](https://www.codechef.com/users/sohayel7461) <br> [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
+| **Programming Profiles** <br> (Click to view Profiles) | [![Codeforces](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sohayel7461) [![Atcoder](https://badges.joonhyung.xyz/atcoder/sohayel7461.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/sohayel7461) [![Codechef](https://cp-logo.vercel.app/codechef/sohayel7461?logo=true)](https://www.codechef.com/users/sohayel7461) <br> [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
 
+### My Progress on Stats
+![](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
-
-- 🔭 I’m currently solving problems in **HackerRank & Exercism** and competing contest in **Codeforces & AtCoder**.
+- 🔭 I’m currently solving problems in **HackerRank & Exercism** and competing contest in online platforms like **Codeforces & AtCoder**.
 
 - 🌱 I’m currently learning **C++**
 
@@ -92,3 +93,7 @@ Feel free to reach out to me or connect with me via...
 
 
 **Let's connect and discuss exciting opportunities!**
+
+![](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/max_rating.svg)
+
+<!--  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sohayel7461&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sohayel7461) -->
