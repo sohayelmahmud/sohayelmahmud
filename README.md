@@ -94,6 +94,4 @@ Feel free to reach out to me or connect with me via...
 
 **Let's connect and discuss exciting opportunities!**
 
-![](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/max_rating.svg)
-
 <!--  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sohayel7461&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/sohayel7461) -->
