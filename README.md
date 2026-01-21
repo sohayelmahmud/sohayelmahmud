@@ -44,7 +44,9 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 | **Programming Profiles** <br> (Click to view Profiles) | [![Codeforces](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sohayel7461) [![Atcoder](https://badges.joonhyung.xyz/atcoder/sohayel7461.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/sohayel7461) [![Codechef](https://cp-logo.vercel.app/codechef/sohayel7461?logo=true)](https://www.codechef.com/users/sohayel7461) <br> [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
 
 ### My Progress on Stats
-![](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<a href="https://codeforces.com/profile/sohayel7461">
+<img src="https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+</a>
 
 - 🔭 I’m currently solving problems in **HackerRank & Exercism** and competing contest in online platforms like **Codeforces & AtCoder**.
 
