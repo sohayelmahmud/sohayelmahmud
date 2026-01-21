@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SOHAYEL%20MAHMUD&fontSize=42&fontAlignY=32&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20ML%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SOHAYEL%20MAHMUD&fontSize=42&fontAlignY=32&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Prompt%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
 </div>
 
 ## About Me
@@ -100,7 +100,7 @@ Feel free to reach out to me or connect with me via...
 **Mail me on:** [sohayelmahmud@yahoo.com](mailto:sohayelmahmud@yahoo.com)
 
 <div align="center">
-    <sub>Let's connect and discuss exciting opportunities!</sub>
+    Let's connect and discuss exciting opportunities!
 </div>
 
 <!-- <div align="center">
