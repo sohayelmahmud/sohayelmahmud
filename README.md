@@ -1,9 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sohayelmahmud&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=sohayelmahmud&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sohayelmahmud)
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SOHAYEL%20MAHMUD&fontSize=42&fontAlignY=32&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Prompt%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
-</div>
+<div align="center"> <a href="https://github.com/sohayelmahmud">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SOHAYEL%20MAHMUD&fontSize=42&fontAlignY=32&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Prompt%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%" /> </a> </div>
 
 ## About Me
 
@@ -49,9 +48,9 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 <a href="https://codeforces.com/profile/sohayel7461">
 <img src="https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </a>
-<p>
+<p>  <a href="https://github.com/sohayelmahmud">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohayelmahmud&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohayelmahmud&theme=github_dark&utcOffset=6" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohayelmahmud&theme=github_dark&utcOffset=6" alt="Productive Time" /> </a>
 </p>
 
 - 🔭 I’m currently solving problems in **HackerRank & Exercism** and competing contest in online platforms like **Codeforces & AtCoder**.
@@ -98,15 +97,26 @@ Feel free to reach out to me or connect with me via...
 
 
 **Mail me on:** [sohayelmahmud@yahoo.com](mailto:sohayelmahmud@yahoo.com)
+<div align="center"> <a href="https://github.com/sohayelmahmud">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&text=Let's%20connect%20and%20discuss%20exciting%20opportunities!&section=footer&fontColor=000000&fontSize=24&fontAlignY=82" width="100%"> </a> </div>
 
-<div align="center">
-    Let's connect and discuss exciting opportunities!
-</div>
 
 <!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Code+with+passion+%F0%9F%94%A5;Build+with+purpose+%F0%9F%9A%80;Debug+with+patience+%F0%9F%90%9B;Learn+with+curiosity+%F0%9F%93%9A;Innovate+with+creativity+%F0%9F%92%A1;Deploy+with+confidence+%E2%9C%85;Test+with+precision+%F0%9F%8E%AF;Design+with+empathy+%E2%9D%A4%EF%B8%8F" alt="Animated Typing" />
 </div> -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</div>
+<!-- [![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/sohayel7461?show_icons=true&theme=darcula&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461)](https://atcoder.jp/users/sohayel7461) -->
+
+<!-- ![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sohayel7461}?v=1)
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/sohayel7461?v=1) -->
+
+<!-- <a href="https://leetcode.com/u/NoOne74/">
+    <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/> <!--  https://github.com/JacobLinCool/LeetCode-Stats-Card.git
+  </a>
+
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/sohayelmahmud612)](https://hackerrank.com/profile/sohayelmahmud612/)
+
+https://github.com/VenkataRamanaRao5/hackerrank
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&animated=true)  for badges, animated -->
