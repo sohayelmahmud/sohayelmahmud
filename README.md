@@ -120,4 +120,3 @@ Feel free to reach out to me or connect with me via...
 https://github.com/VenkataRamanaRao5/hackerrank
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&animated=true)  for badges, animated -->
-![Notepad++](https://img.shields.io/badge/Notepad++-333333.svg?style=flat&logo=notepad%2b%2b)
