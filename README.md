@@ -42,15 +42,17 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 | Area        |Tools Used                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Linux Mint](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
-| **Programming Profiles** <br> (Click to view Profiles) | [![Codeforces](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sohayel7461) [![Atcoder](https://badges.joonhyung.xyz/atcoder/sohayel7461.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/sohayel7461) [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=333333&color=%23ffa116&label=LeetCode&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNoOne74&logo=leetcode)](https://leetcode.com/u/NoOne74/)<br>[![CodeChef](https://img.shields.io/badge/CodeChef-333333?logo=CodeChef)](https://www.codechef.com/users/sohayel7461) [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
+| **Programming Profiles** <br> (Click to view Profiles) | [![Codeforces](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/sohayel7461) [![Atcoder](https://badges.joonhyung.xyz/atcoder/sohayel7461.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/sohayel7461) [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=333333&color=%23ffa116&label=LeetCode&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNoOne74&logo=leetcode)](https://leetcode.com/u/NoOne74/)<br>[![CodeChef](https://img.shields.io/badge/CodeChef-333333?logo=CodeChef)](https://www.codechef.com/users/sohayel7461) [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
 
 ### My Progress on Stats
-<a href="https://codeforces.com/profile/sohayel7461">
+<p> <a href="https://codeforces.com/profile/sohayel7461">
 <img src="https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </a>
+<a href="https://atcoder.jp/users/sohayel7461">
+<img src="https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461"></a>
+</p>
 <p>  <a href="https://github.com/sohayelmahmud">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohayelmahmud&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohayelmahmud&theme=github_dark&utcOffset=6" alt="Productive Time" /> </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohayelmahmud&theme=github_dark" alt="GitHub Stats" /> </a>
 </p>
 
 - 🔭 I’m currently solving problems in **HackerRank & Exercism** and competing contest in online platforms like **Codeforces & AtCoder**.
@@ -101,15 +103,7 @@ Feel free to reach out to me or connect with me via...
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&text=Let's%20connect%20and%20discuss%20exciting%20opportunities!&section=footer&fontColor=000000&fontSize=24&fontAlignY=82" width="100%"> </a> </div>
 
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Code+with+passion+%F0%9F%94%A5;Build+with+purpose+%F0%9F%9A%80;Debug+with+patience+%F0%9F%90%9B;Learn+with+curiosity+%F0%9F%93%9A;Innovate+with+creativity+%F0%9F%92%A1;Deploy+with+confidence+%E2%9C%85;Test+with+precision+%F0%9F%8E%AF;Design+with+empathy+%E2%9D%A4%EF%B8%8F" alt="Animated Typing" />
-</div> -->
 
-<!-- [![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/sohayel7461?show_icons=true&theme=darcula&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
-[![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461)](https://atcoder.jp/users/sohayel7461) -->
-
-<!-- ![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sohayel7461}?v=1)
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/sohayel7461?v=1) -->
 
 <!-- <a href="https://leetcode.com/u/NoOne74/">
     <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/> <!--  https://github.com/JacobLinCool/LeetCode-Stats-Card.git
