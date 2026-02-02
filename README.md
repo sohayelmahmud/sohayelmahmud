@@ -87,7 +87,7 @@ Here are some of my repositories focused on problem-solving and coding challenge
 <a href="https://atcoder.jp/users/sohayel7461">
 <img src="https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461"></a>
 <a href="https://leetcode.com/u/NoOne74/">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" /></a>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&theme=github-dark&border=border&animated=true" alt="LeetCode Badges" /></a>
 </p>
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=sohayelmahmud&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
