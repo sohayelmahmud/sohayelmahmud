@@ -89,8 +89,8 @@ Here are some of my repositories focused on problem-solving and coding challenge
 <a href="https://leetcode.com/u/NoOne74/">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&theme=github-dark&border=border&animated=true" alt="LeetCode Badges" /></a>
 </p>
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=sohayelmahmud&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+<p align="center"> <a href="https://github.com/sohayelmahmud">
+<img src="https://yourinsights.vercel.app/api/insight?username=sohayelmahmud&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" /> </a>
 </p>
 
 ---
