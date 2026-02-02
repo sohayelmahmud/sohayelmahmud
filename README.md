@@ -6,7 +6,7 @@
 
 
 <!-- Coding GIF -->
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<a href="https://github.com/sohayelmahmud"> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"></a>
 
 ### About Me
 
