@@ -8,7 +8,7 @@
 <!-- Coding GIF -->
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
-## About Me
+### About Me
 
 Hello! I'm **Sohayel Mahmud**, a passionate coding enthusiast from Bangladesh. I'm just a curious mind who codes for **fun, challenge, and pure fascination!** I am not a serious, professional developer (yet!), but I enjoy exploring the world of programming in my free time.
 
