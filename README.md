@@ -4,6 +4,10 @@
 <div align="center"> <a href="https://github.com/sohayelmahmud">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SOHAYEL%20MAHMUD&fontSize=42&fontAlignY=32&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Prompt%20Engineer&descAlignY=51&descAlign=50&animation=twinkling" width="100%" /> </a> </div>
 
+
+<!-- Coding GIF -->
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+
 ## About Me
 
 Hello! I'm **Sohayel Mahmud**, a passionate coding enthusiast from Bangladesh. I'm just a curious mind who codes for **fun, challenge, and pure fascination!** I am not a serious, professional developer (yet!), but I enjoy exploring the world of programming in my free time.
@@ -44,17 +48,6 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linuxmint) ![Linux Mint](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)  |
 | **Programming Profiles** <br> (Click to view Profiles) | [![Codeforces](https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/sohayel7461) [![Atcoder](https://badges.joonhyung.xyz/atcoder/sohayel7461.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/sohayel7461) [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=333333&color=%23ffa116&label=LeetCode&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNoOne74&logo=leetcode)](https://leetcode.com/u/NoOne74/)<br>[![CodeChef](https://img.shields.io/badge/CodeChef-333333?logo=CodeChef)](https://www.codechef.com/users/sohayel7461) [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/sohayelmahmud612) [![Exercism](https://img.shields.io/badge/-Exercism-333333?style=flat&logo=exercism)](https://exercism.org/profiles/sohayelmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-333333?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/31918119/jim) |
 
-### My Progress on Stats
-<p> <a href="https://codeforces.com/profile/sohayel7461">
-<img src="https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-</a>
-<a href="https://atcoder.jp/users/sohayel7461">
-<img src="https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461"></a>
-</p>
-<p>  <a href="https://github.com/sohayelmahmud">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohayelmahmud&theme=github_dark" alt="GitHub Stats" /> </a>
-</p>
-
 - 🔭 I’m currently solving problems in **HackerRank & Exercism** and competing contest in online platforms like **Codeforces & AtCoder**.
 
 - 🌱 I’m currently learning **C++**
@@ -87,6 +80,21 @@ Here are some of my repositories focused on problem-solving and coding challenge
 
 ---
 
+### My Progress on Stats
+
+<p> <a href="https://codeforces.com/profile/sohayel7461">
+<img src="https://raw.githubusercontent.com/sohayelmahmud/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /></a>
+<a href="https://atcoder.jp/users/sohayel7461">
+<img src="https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461"></a>
+<a href="https://leetcode.com/u/NoOne74/">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" /></a>
+</p>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=sohayelmahmud&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+---
+
 ## Contact
 Feel free to reach out to me or connect with me via...
 
@@ -104,13 +112,13 @@ Feel free to reach out to me or connect with me via...
 
 
 
-
-<!-- <a href="https://leetcode.com/u/NoOne74/">
-    <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/> <!--  https://github.com/JacobLinCool/LeetCode-Stats-Card.git
+<!---
+ <a href="https://leetcode.com/u/NoOne74/">
+    <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/>  https://github.com/JacobLinCool/LeetCode-Stats-Card.git
   </a>
 
 [![Hackerrank badges](https://hackerrank-badges.vercel.app/sohayelmahmud612)](https://hackerrank.com/profile/sohayelmahmud612/)
 
 https://github.com/VenkataRamanaRao5/hackerrank
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&animated=true)  for badges, animated -->
+  for badges, animated -->
