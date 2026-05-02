@@ -89,6 +89,7 @@ Here are some of my repositories focused on problem-solving and coding challenge
 <a href="https://leetcode.com/u/NoOne74/">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&theme=github-dark&border=border&animated=true" alt="LeetCode Badges" /></a>
 </p>
+<br>
 <p align="center"> <a href="https://github.com/sohayelmahmud">
 <img src="https://yourinsights.vercel.app/api/insight?username=sohayelmahmud&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" /> </a>
 </p>
@@ -112,13 +113,13 @@ Feel free to reach out to me or connect with me via...
 
 
 
-<!---
+
  <a href="https://leetcode.com/u/NoOne74/">
-    <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/>  https://github.com/JacobLinCool/LeetCode-Stats-Card.git
+    <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/>
   </a>
 
-[![Hackerrank badges](https://hackerrank-badges.vercel.app/sohayelmahmud612)](https://hackerrank.com/profile/sohayelmahmud612/)
+ [![Hackerrank badges](https://hackerrank-badges.vercel.app/sohayelmahmud612)](https://hackerrank.com/profile/sohayelmahmud612/)
 
-https://github.com/VenkataRamanaRao5/hackerrank
+<!--- https://github.com/VenkataRamanaRao5/hackerrank
 
-  for badges, animated -->
+  for badges, animated --->
