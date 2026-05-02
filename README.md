@@ -88,6 +88,8 @@ Here are some of my repositories focused on problem-solving and coding challenge
 <img src="https://atcoder.junah.dev/v2/generate_badge?name=sohayel7461"></a>
 <a href="https://leetcode.com/u/NoOne74/">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=NoOne74&theme=github-dark&border=border&animated=true" alt="LeetCode Badges" /></a>
+<a href="https://leetcode.com/u/NoOne74/">
+<img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="350em" width="550em" alt="Sohayel Mahmud"/></a>
 </p>
 <br>
 <p align="center"> <a href="https://github.com/sohayelmahmud">
@@ -114,12 +116,10 @@ Feel free to reach out to me or connect with me via...
 
 
 
- <a href="https://leetcode.com/u/NoOne74/">
-    <img src="https://leetcard.jacoblin.cool/NoOne74?theme=dark&font=Noto%20Sans%20Bengali&ext=contest" height="270em" width="570em" alt="Sohayel Mahmud"/>
-  </a>
 
+<!---
  [![Hackerrank badges](https://hackerrank-badges.vercel.app/sohayelmahmud612)](https://hackerrank.com/profile/sohayelmahmud612/)
 
-<!--- https://github.com/VenkataRamanaRao5/hackerrank
+ https://github.com/VenkataRamanaRao5/hackerrank
 
   for badges, animated --->
