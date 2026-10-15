@@ -52,7 +52,7 @@ Rosulpur Osman Mollah Islamia Fazil Madrasah, Narayangonj | Science | GPA: 5.00/
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [**https://sohayelmahmud.github.io**](https://sohayelmahmud.github.io/)
+- 👨‍💻 All of my projects are available at [**https://sohayelmahmud.vercel.app**](https://sohayelmahmud.vercel.app/)
 
 - 📫 How to reach me [**sohayelmahmud@proton.me**](mailto:sohayelmahmud@proton.me)
 
